@@ -178,9 +178,8 @@ footer img{
     background-color:rgba(21, 21, 21, 1);
 }
 
-footer img:hover{
+footer a img:hover{
     filter: invert(63%) sepia(84%) saturate(242%) hue-rotate(340deg) brightness(88%) contrast(88%);
-    /* scoria? */
 }
 
 @media only screen and (min-width: 768px) {
